@@ -1,0 +1,12 @@
+# Python Virtual Environment
+bin/
+lib/
+pyvenv.cfg
+.lock
+CACHEDIR.TAG
+__pycache__/
+*.pyc
+*.pyo
+
+# System files
+.DS_Store
